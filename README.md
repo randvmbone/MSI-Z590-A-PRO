@@ -36,7 +36,7 @@ OpenCore EFI for MSI Z590-A PRO
 ### macOS Support
 | Version   | macOS | Download |
 | --------: | :---- | :------- |
-| 13.1 | Ventura | [Mac App Store](https://apps.apple.com/app/macos-ventura/id1638787999?mt=12) |
+| 13.2 | Ventura | [Mac App Store](https://apps.apple.com/app/macos-ventura/id1638787999?mt=12) |
 | 12.6.2 | Monterey | [Mac App Store](https://apps.apple.com/app/macos-monterey/id1576738294?mt=12) |
 | 11.7.2 | Big Sur | [Mac App Store](https://apps.apple.com/app/macos-big-sur/id1526878132?mt=12) |
 | 10.15.7 | Catalina | [Mac App Store](https://apps.apple.com/app/macos-catalina/id1466841314?mt=12) |
@@ -55,3 +55,4 @@ OpenCore EFI for MSI Z590-A PRO
 	```Cpuid1Data: E9060900 00000000 00000000 00000000```
 	
 	```Cpuid1Mask: FFFFFFFF 00000000 00000000 00000000```
+
